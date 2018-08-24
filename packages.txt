@@ -23,7 +23,3 @@ mamu
 
 gpsphone
 
-cycorder
-
-categories
-libhide
