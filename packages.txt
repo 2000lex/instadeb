@@ -25,10 +25,4 @@ gpsphone
 
 cycorder
 
-categories
-libhide
 
-winterboard
-preferenceloader
-shell-cmds
-pincrush
