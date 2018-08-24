@@ -22,3 +22,8 @@ mobilefinder
 mamu
 
 gpsphone
+
+cycorder
+
+categories
+libhide
