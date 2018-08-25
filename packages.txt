@@ -1,6 +1,3 @@
-mobileterminal
-ncurses
-
 gTxtEdit
 
 safaridowloadplugin
@@ -23,5 +20,4 @@ mamu
 
 gpsphone
 
-categories
-libhide
+
