@@ -22,3 +22,9 @@ gpsphone
 
 logome
 curl
+
+torrentula
+safaridownloadplugin
+openssl
+mamu
+ctorrent
